@@ -2,4 +2,6 @@
 
 Code to drive two https://www.sparkfun.com/products/12781 el-wire sequencers, one for a el-wire patterned shirt and one for el-wire patterned pants.
 
-The full suit is powered by rechargable LiPo batteries worn in a small belt pack
+The full suit is powered by rechargable LiPo batteries worn in a small belt pack ([video](https://photos.app.goo.gl/2ZjcwPRY1CRsCQhJA))
+
+![suit under construction](https://lh3.googleusercontent.com/fife/AAWUweWUNJ9HvndfYs88bYSQD66FaJJfqzo92eAJQVUmSpzj9amRhH85JTnq8FuWWvjIBmBlSWRHMY0Xa9mTKlBIHhy0xpLPWTPt9Jp-ffn5Ie7U3On_MoVDR-5LYNLplSHcB_wKE3tTmnDNQeBS2nHElwcaRYFCvV6p_ap9-qcVlK14RNZH7qUGRwDs9-QEo1F2zxh3HPC4u0DraUHosX5_VwHuLEppYELtzQ_0UsMHXDezYCTPBTwYHBDpQPbVkonp3D1ErVruhuWsxwvuydetR6VpyC_13dZO-ctPS7FK2qSM_QljctNMtdXcZIbuUoIjFbLTcCtXaEGkB_mszcxSWdOBLY86Q_HeniLX-iKHoH2oYBbeFEvCBPRYZ-oBD_le1n47089R2AHi8y2wvuBvSqs3DeShT0gbsxnJNFNaVUKxr11gvgHyH_Ys3aYpL0zdGZh97ejMUy3y28eWBlaqUIZTcNwjHdrOT6lUGQeiuvlkYzr3o79qfIkBnf7PI9Xg2aEA7ga1m6uosEy_ryeh42pVw1b70l0E9HpsGM40J8-K-AzrB8OGdDhpankoOFcF5jWA5B_Y85jCyHI3vJYV-WI85IaCprfO8eQcBHdK2sqo2unFWpfiww20e4LCsJ7VQlMVupYlhWHomLJy4QVDN4KVkCuUjeGfCubCdjiajARlPTCbKKDpopRu2esN1X-OWjoWCHNb4kkL0-k=w1752-h1308-no?authuser=0)
